@@ -1,0 +1,4027 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2014-12-11T00:08:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/1956599224",
+      "properties": {
+        "@id": "node/1956599224",
+        "emergency": "defibrillator",
+        "man_made": "water_works",
+        "name": "東京都調布市仙川中継ポンプ場",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5841495,
+          35.6659555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150001979",
+      "properties": {
+        "@id": "node/3150001979",
+        "aed:brand": "Philips",
+        "aed:location": "入口を入り左手の壁に設置されている。",
+        "c4chofu:aed:forchild": "yes",
+        "emergency": "defibrillator",
+        "indoor": "yes",
+        "levels": "0",
+        "name": "つつじが丘駅前交番 AED",
+        "note": "アルソックによる月１回定期メンテあり。",
+        "opening_hours": "24/7",
+        "phone": "+81-42-488-0110",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 08 October 2014",
+        "source_2": "Chofu Mapping Party Contributors, CC BY 4.0, 22 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5743493,
+          35.6592962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150002859",
+      "properties": {
+        "@id": "node/3150002859",
+        "access": "yes",
+        "aed:location": "改札入ってすぐ右手",
+        "emergency": "defibrillator",
+        "indoor": "yes",
+        "name": "京王線つつじが丘駅 AED",
+        "note": "始発～終電の時間帯",
+        "phone": "+81-42-337-3112",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5751925,
+          35.6581178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150045992",
+      "properties": {
+        "@id": "node/3150045992",
+        "FIXME": "場所はあやしいのでチェックお願いします！",
+        "aed:location": "玄関入って左",
+        "emergency": "defibrillator",
+        "name": "至誠ホーム調布若葉ケアセンター AED",
+        "opening_hours": "10:30-14:00",
+        "phone": "+81- 3-3326-7600",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 16 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5818824,
+          35.6555724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150052467",
+      "properties": {
+        "@id": "node/3150052467",
+        "FIXME": "location",
+        "emergency": "defibrillator",
+        "indoor": "yes",
+        "name": "ポピンズナーサリースクール調布 AED",
+        "opening_hours": "opening_hours=Mo-Sa 07:00-20:00;PH off",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5716145,
+          35.6613541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150053905",
+      "properties": {
+        "@id": "node/3150053905",
+        "aed:location:ja": "玄関（下駄箱の上）",
+        "emergency": "defibrillator",
+        "indoor": "yes",
+        "name": "ふじみだい学童クラブ AED",
+        "opening_hours": "Mo-Sa 09:30-19:00;PH off",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 17 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5362658,
+          35.645993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150056057",
+      "properties": {
+        "@id": "node/3150056057",
+        "emergency": "defibrillator",
+        "name": "下石原地域福祉センター AED",
+        "note": "休館日：毎月第4月曜日・年末年始休館　AED設置シールの写真を撮るのも、緊急時に使用するのも、市の許可が必要とのことでした。",
+        "opening_hours": "Mo-Su 09:00-17:00;但し，年末年始，毎月第４月曜日ほか臨時休館日を除く。",
+        "phone": "+81-42-481-7683",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 16 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5347266,
+          35.647285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150057163",
+      "properties": {
+        "@id": "node/3150057163",
+        "access": "unknown",
+        "aed:location:ja": "マンション内エレベーター横に設置",
+        "emergency": "defibrillator",
+        "name": "ランドシティ調布多摩川セレーノ AED",
+        "opening_hours": "24/7",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 16 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.530144,
+          35.6435654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150058054",
+      "properties": {
+        "@id": "node/3150058054",
+        "emergency": "defibrillator",
+        "name": "旭出調布福祉作業所 AED",
+        "note": "使用可能か否かは、確認が取れませんでした。",
+        "opening_hours": "Mo-Fr 08:30-17:00",
+        "phone": "+81-42-485-5885",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 16 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5359114,
+          35.646812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150058472",
+      "properties": {
+        "@id": "node/3150058472",
+        "emergency": "defibrillator",
+        "name": "みずほ銀行 つつじヶ丘駅前出張所（ATM） AED",
+        "opening_hours": "Mo-Fr 06:00-26:00, Sa 08:00-22:00, Su,PH 08:00-21:00",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 11 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5743961,
+          35.6582825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150064531",
+      "properties": {
+        "@id": "node/3150064531",
+        "emergency": "defibrillator",
+        "name": "京王多摩川駅 AED",
+        "note": "終電後から始発までシャッターを降ろすと使えないようです。改札入口の目立つ場所にあります。",
+        "opening_hours": "05:00～01:00",
+        "phone": "+81-42-482-2330",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 20 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5371039,
+          35.6449425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150064723",
+      "properties": {
+        "@id": "node/3150064723",
+        "aed:location": "業務用通用口入ってすぐ、階段右脇にありました。",
+        "emergency": "defibrillator",
+        "name": "調布市立図書館若葉分館 AED",
+        "phone": "+81-3-3326-7600",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 26 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5839102,
+          35.654933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150070782",
+      "properties": {
+        "@id": "node/3150070782",
+        "access": "AED は、店舗内レジ付近に あります。レジ奥駐車場側、サービスコーナーにありました。2014/10/27お",
+        "emergency": "defibrillator",
+        "name": "いなげや調布仙川店",
+        "opening_hours": "9:00-22:45",
+        "phone": "+81-3-6909-1295",
+        "shop": "supermarket",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5840424,
+          35.665735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150137406",
+      "properties": {
+        "@id": "node/3150137406",
+        "access": "AED は、店舗内レジ付近に あります。",
+        "emergency": "defibrillator",
+        "name": "いなげや調布仙川店",
+        "opening_hours": "未確認",
+        "shop": "supermarket",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5840356,
+          35.6657779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150139288",
+      "properties": {
+        "@id": "node/3150139288",
+        "access": "未確認",
+        "emergency": "defibrillator",
+        "name": "都立神代高等学校 AED",
+        "phone": "+81-3-3300-8261",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0,"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.586084,
+          35.6574513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150139290",
+      "properties": {
+        "@id": "node/3150139290",
+        "access": "ＡＥＤ設置場所は未確認",
+        "emergency": "defibrillator",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.586084,
+          35.6574513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150184756",
+      "properties": {
+        "@id": "node/3150184756",
+        "aed:location": "２階の事務所入って入口付近にあります。",
+        "emergency": "defibrillator",
+        "name": "調布市シルバー人材センター",
+        "opening_hours": "未確認",
+        "phone": "＋81－42-487-9375",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 28 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5407601,
+          35.644962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150195455",
+      "properties": {
+        "@id": "node/3150195455",
+        "access": "クリニックは、かわいいシロクマが目印です(笑)",
+        "emergency": "defibrillator",
+        "name": "ブライトデンタルクリニック　仙川",
+        "phone": "＋81-3-3326-1188",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5851364,
+          35.6603492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150197420",
+      "properties": {
+        "@id": "node/3150197420",
+        "access": "道路からも目立って、わかりやすい位置に、設置されています！",
+        "emergency": "defibrillator",
+        "name": "公益社 仙川会館　セレモニーホール",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5842314,
+          35.6632118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150203386",
+      "properties": {
+        "@id": "node/3150203386",
+        "access": "道路からも目立って、わかりやすい位置に、設置されています！",
+        "emergency": "defibrillator",
+        "name": "公益社 仙川会館　セレモニアルホール AED",
+        "phone": "＋81-3-5314-9393",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 15 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5842571,
+          35.6632043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150238535",
+      "properties": {
+        "@id": "node/3150238535",
+        "aed:location": "入って右側に設置してます。",
+        "emergency": "defibrillator",
+        "name": "みずほ銀行 調布仙川支店 AED",
+        "note": "なんと、書類を書くテーブルの下に、防災ヘルメットが１２個常備されていました。",
+        "opening_hours": "Mo-Fr 10:00-15:00",
+        "phone": "＋81-3-3300-3331",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 10 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5844675,
+          35.6624239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150243471",
+      "properties": {
+        "@id": "node/3150243471",
+        "emergency": "defibrillator",
+        "name": "三菱東京UFJ銀行 仙川駅前支店 AED",
+        "opening_hours": "Mo-Fr 10:00-15:00",
+        "phone": "＋81-3-5313-4111",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 16 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5853088,
+          35.6615191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150254899",
+      "properties": {
+        "@id": "node/3150254899",
+        "access": "クリーンプラザふじみ 正面玄関から入って、エレベーターで３階へ。 降りてすぐのところ、ふじみ衛生組合事務所正面に設置されています。",
+        "emergency": "defibrillator",
+        "fixme": "ポイント場所正確ではありません。使用可能時間帯平日＝月～金？",
+        "name": "クリーンプラザふじみ 正面玄関から入って、エレベーターで３階へ。 降りてすぐのところ、ふじみ衛生組合事務所正面に設置されています。",
+        "opening_hours": "平日 8:30～17:15",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5598903,
+          35.6818665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150277329",
+      "properties": {
+        "@id": "node/3150277329",
+        "emergency": "defibrillator",
+        "name": "京王多摩川駅前交番 AED",
+        "opening_hours": "24/7",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 16 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5367961,
+          35.644524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150281107",
+      "properties": {
+        "@id": "node/3150281107",
+        "emergency": "defibrillator",
+        "indoor": "yes",
+        "name": "AED",
+        "opening_hours": "05:00-21:00;Dec 27-Jan 05 off",
+        "phone": "+81-42-485-2689",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 4 October 2014",
+        "source2": "Chofu Mapping Party Contributors, CC BY 4.0, 15 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5469392,
+          35.6403188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150286144",
+      "properties": {
+        "@id": "node/3150286144",
+        "amenity": "police",
+        "emergency": "defibrillator",
+        "name": "調布警察署 下石原交番",
+        "opening_hours": "24/7",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5397863,
+          35.656439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150286928",
+      "properties": {
+        "@id": "node/3150286928",
+        "access": "unknown",
+        "emergency": "defibrillator",
+        "name": "創価学会　調布文化会館 AED",
+        "phone": "+81-42-480-4111",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 16 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5295193,
+          35.64342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150290179",
+      "properties": {
+        "@id": "node/3150290179",
+        "emergency": "defibrillator",
+        "indoor": "yes",
+        "name": "小林歯科医院　AED",
+        "opening_hours": "Mo-We,Fr 10:00-13:00,14:30-19:00;Sa 10:00-13:00,14:00-17:00",
+        "phone": "+81-42-480-6489",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 16 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5384832,
+          35.6437535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150297097",
+      "properties": {
+        "@id": "node/3150297097",
+        "emergency": "defibrillator",
+        "name": "布田交番 AED",
+        "note": "電話番号は調布警察署。そこから繋いでくれます。",
+        "opening_hours": "24/7",
+        "phone": "+81-42-488-0110",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 20 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5484391,
+          35.6470918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150297098",
+      "properties": {
+        "@id": "node/3150297098",
+        "aed:brand": "philips",
+        "aed:location": "入口を入り右手の壁に設置されています。",
+        "emergency": "defibrillator",
+        "name": "調布駅北口交番 AED",
+        "note": "電話番号は調布警察署のもの。そこから繋いでくれます。",
+        "opening_hours": "24/7",
+        "phone": "+81-42-488-0110",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 7 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5443253,
+          35.6522987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150297099",
+      "properties": {
+        "@id": "node/3150297099",
+        "emergency": "defibrillator",
+        "name": "調布市グリーンホール AED",
+        "note": "休館日:毎週月曜日（ 変則あり）、12月29日～1月3日",
+        "phone": "+81-42-481-7611",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 13 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5427603,
+          35.6514014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150302735",
+      "properties": {
+        "@id": "node/3150302735",
+        "emergency": "defibrillator",
+        "indoor": "yes",
+        "name": "多摩川児童公園内運動施設管理事務所 AED",
+        "opening_hours": "Mo-Su 09:00-17:00;Jun-Sep 09:00-18:00;Dec 27-Jan 4 off;",
+        "phone": "+81-42-486-5242",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 15 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5358134,
+          35.6418446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150304194",
+      "properties": {
+        "@id": "node/3150304194",
+        "aed:location": "入って11時の方向に設置してあります。",
+        "emergency": "defibrillator",
+        "indoor": "yes",
+        "name": "調布市郷土資料館 AED",
+        "note": "休 館 日：月曜日(祝日の場合は翌日)・年末年始・館内整理日",
+        "opening_hours": "Tu-Su 09：00-16：00;PH off",
+        "phone": "+81-42-481-7656",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 12 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5362689,
+          35.6467507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150306425",
+      "properties": {
+        "@id": "node/3150306425",
+        "aed:location": "敷地内、正面 昇降口の外側・右横壁面。",
+        "emergency": "defibrillator",
+        "fixme": "ポイント位置は未確認です。",
+        "name": "調布市立富士見台小学校　AED",
+        "phone": "+81-42-481-7640",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0,19 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5372889,
+          35.6480507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150309533",
+      "properties": {
+        "@id": "node/3150309533",
+        "aed:location": "１階エレベーター横に設置してあります。",
+        "emergency": "defibrillator",
+        "level": "0",
+        "name": "調布市商工会 AED",
+        "opening_hours": "09:00-22:00",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 16 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5413804,
+          35.6502275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150311995",
+      "properties": {
+        "@id": "node/3150311995",
+        "emergency": "defibrillator",
+        "name": "電気通信大学多摩川運動場 AED",
+        "phone": "+81-42-443-5000",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 15 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5446939,
+          35.6408609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150313417",
+      "properties": {
+        "@id": "node/3150313417",
+        "Fixme": "ポイントの位置未確認",
+        "emergency": "defibrillator",
+        "name": "イトーヨーカドー国領店 AED",
+        "note": "１Ｆサービスカウンター奥の事務所に１つあるようです。また、店内 何ヶ所かに設置してあります。",
+        "opening_hours": "10:00-22:00",
+        "phone": "03-3430-2111",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 9 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5641539,
+          35.6470393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150314512",
+      "properties": {
+        "@id": "node/3150314512",
+        "aed:location": "事務室1階",
+        "emergency": "defibrillator",
+        "level": "0",
+        "name": "調布市総合体育館 1F AED",
+        "opening_hours": "08:30-21:00",
+        "phone": "+81-42-481-6221",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 18 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.551929,
+          35.6724383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150314513",
+      "properties": {
+        "@id": "node/3150314513",
+        "aed:location": "プール受付",
+        "emergency": "defibrillator",
+        "level": "-1",
+        "name": "調布市総合体育館 地下１F AED",
+        "opening_hours": "08:30-21:00",
+        "phone": "+81-42-481-6221",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 18 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5518963,
+          35.6724272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150314932",
+      "properties": {
+        "@id": "node/3150314932",
+        "aed:location": "フロントにあります。",
+        "emergency": "defibrillator",
+        "indoor": "yes",
+        "name": "アクラブ調布 AED",
+        "opening_hours": "Mo-We,Fr 10:00-18:00,　Th 10：00-20：30,　Sa 09：00-17：30　Su 08：45-16：30",
+        "phone": "+81-42-483-3230",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 16 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5556051,
+          35.6435987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150321099",
+      "properties": {
+        "@id": "node/3150321099",
+        "aed:location": "レジの後ろにありました。",
+        "emergency": "defibrillator",
+        "name": "いなげや AED",
+        "opening_hours": "09：00-21：30",
+        "phone": "042-487-8005",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 17 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5498437,
+          35.6408021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150321333",
+      "properties": {
+        "@id": "node/3150321333",
+        "aed:location": "２階正面入口受付の横",
+        "emergency": "defibrillator",
+        "level": "1",
+        "name": "調布市役所 AED",
+        "opening_hours": "08:30-17:15",
+        "phone": "+81-42-481-7111",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 8 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5409082,
+          35.6506452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150321334",
+      "properties": {
+        "@id": "node/3150321334",
+        "emergency": "defibrillator",
+        "name": "上布田保育園 AED",
+        "opening_hours": "07:00-19:00",
+        "phone": "+81-42-482-2564",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 15 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5459856,
+          35.6560698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150325027",
+      "properties": {
+        "@id": "node/3150325027",
+        "emergency": "defibrillator",
+        "opening_hours": "24/7",
+        "phone": "+81-42-486-0119",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 20 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.539394,
+          35.6562287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150330378",
+      "properties": {
+        "@id": "node/3150330378",
+        "emergency": "defibrillator",
+        "name": "調布診療所 AED",
+        "note": "休診日：木午後、土午後、日・祝祭日 ステッカー確認のみ。 中に入ってまでの確認はしておりません。",
+        "opening_hours": "09:00-12:00, 15:00-18:00",
+        "phone": "+81-42-483-2557",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 18 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5462914,
+          35.6533913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150331880",
+      "properties": {
+        "@id": "node/3150331880",
+        "emergency": "defibrillator",
+        "name": "カーブス国領 AED",
+        "note": "品川通り、多摩川住宅入口信号付近、山梨中央銀行のとなりです。 土曜午後・日曜日・祝日は休み。女性向けスポーツジムのため、店内は女性しか入れない。",
+        "opening_hours": "Mo-Fr 10:00-13:00,15:00-19:00, Sa 10:00-13:00",
+        "phone": "042-498-8115",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 20 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5601521,
+          35.645379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150334516",
+      "properties": {
+        "@id": "node/3150334516",
+        "access": "yes",
+        "aed:location": "AEDは「すこやか」事務所の中にあります。休館日 毎月第3土曜日とその翌日 年末年始 (12月29日〜翌年1月4日)",
+        "emergency": "defibrillator",
+        "indoor": "yes",
+        "levels": "1",
+        "name": "ココスクエア調布2階すこやか　AED",
+        "opening_hours": "09:00-17:00",
+        "phone": "＋81－42-481-7733",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 15 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5586098,
+          35.6494854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150336899",
+      "properties": {
+        "@id": "node/3150336899",
+        "emergency": "defibrillator",
+        "name": "さわやか信用金庫 多摩川支店 AED",
+        "opening_hours": "Mo-Fr 08:00-21:00, Sa,Su,PH 08:00-17：00",
+        "phone": "+81-42-483-4011",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 13 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5599181,
+          35.64005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150338551",
+      "properties": {
+        "@id": "node/3150338551",
+        "emergency": "defibrillator",
+        "indoor": "yes",
+        "name": "ティップネス国領 AED",
+        "opening_hours": "Mo-Fr 09:45-23:00, Sa Su 09:45-20:00,  PH 09:45-20:00",
+        "phone": "+81-42-483-0820",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 20 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.55818,
+          35.6513276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150342786",
+      "properties": {
+        "@id": "node/3150342786",
+        "aed:location": "地下１F　防災センター内に設置。閉店時も監視員いるため24時間対応は可能。",
+        "emergency": "defibrillator",
+        "level": "-1",
+        "name": "調布PARCO B1F　防災センター",
+        "opening_hours": "10:00-23:00",
+        "phone": "+81-42-489-5111",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 14 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5434882,
+          35.6527191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150342787",
+      "properties": {
+        "@id": "node/3150342787",
+        "emergency": "defibrillator",
+        "name": "総合福祉センター;調布市社会福祉協議会 AED",
+        "note": "職員が居れば17時半以降も利用出来るそうです。",
+        "opening_hours": "09:00-17:00",
+        "phone": "+81-42-487-8645",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 17 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5426295,
+          35.6513846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150343618",
+      "properties": {
+        "@id": "node/3150343618",
+        "aed:brand": "日本光電",
+        "aed:location": "切符売り場付近に設置",
+        "emergency": "defibrillator",
+        "levels": "-2",
+        "name": "調布駅 AED",
+        "note": "始発～終電の時間帯で利用可能。多言語対応。",
+        "opening_hours": "05:03-24:47",
+        "phone": "+81-42-357-6161",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 6 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5442341,
+          35.6519485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150343896",
+      "properties": {
+        "@id": "node/3150343896",
+        "aed:location": "1Fロ正面玄関は原則営業日の8:00-18:00に空いています。",
+        "emergency": "defibrillator",
+        "indoor": "yes",
+        "levels": "0",
+        "name": "マニュライフ生命保険 AED",
+        "note": "正面玄関は原則営業日の8:00-18:00に空いています。その他の時間帯はビル右側通用門のインターホンから警備室に連絡出来ます。",
+        "opening_hours": "Mo-Fri 08:00-18:00, PH closed",
+        "phone": "+81-42-489-8080",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 16 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5589847,
+          35.6481193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150347241",
+      "properties": {
+        "@id": "node/3150347241",
+        "aed:location": "1F　エレベーターホール",
+        "emergency": "defibrillator",
+        "indoor": "yes",
+        "name": "マルエツ国領店　AED",
+        "opening_hours": "10：00-25：00",
+        "phone": "+81-42-498-4061",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 7 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5586018,
+          35.6498336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150352520",
+      "properties": {
+        "@id": "node/3150352520",
+        "aed:location": "JAの店舗内 左奥事務所に設置してあります。",
+        "emergency": "defibrillator",
+        "indoor": "yes",
+        "name": "マインズ農業協同組合 地域振興総合センター AED",
+        "phone": "+81-42-486-1511",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 9 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.560012,
+          35.6450635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150353731",
+      "properties": {
+        "@id": "node/3150353731",
+        "access": "permissive",
+        "aed:location": "マンション内エレベーター横に設置",
+        "emergency": "defibrillator",
+        "name": "フォルスコート染地公園 AED",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 6 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5544088,
+          35.6399018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150364819",
+      "properties": {
+        "@id": "node/3150364819",
+        "emergency": "defibrillator",
+        "name": "創価学会調布会館 AED",
+        "phone": "+81-42-482-9391",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 18 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5402475,
+          35.6491998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150373178",
+      "properties": {
+        "@id": "node/3150373178",
+        "emergency": "defibrillator",
+        "name": "菅間医院 AED",
+        "note": "月火木金　9:00～12:00 15:00～18:00　土　9:00～12:00 休診日：土 午後、水、日、祭日",
+        "opening_hours": "Mo-Tu,Th-Fr 09:00-12:00 15:00-18:00, Sa 09:00-12:00",
+        "phone": "+81-42-482-8830",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 17 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5393066,
+          35.655229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150373179",
+      "properties": {
+        "@id": "node/3150373179",
+        "aed:location": "下駄箱横のステッカーの裏",
+        "emergency": "defibrillator",
+        "name": "上布田自治会館 AED",
+        "note": "上布田は第１〜４自治会に分かれているのですが、うちの会長さんに許可をいただいて撮影してきました。 使用していない時はシャッターや扉が閉まっていますが、開いている時は使用してよいそうです。",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 6 October & 15 November 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5458198,
+          35.6518928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150381455",
+      "properties": {
+        "@id": "node/3150381455",
+        "emergency": "defibrillator",
+        "name": "三菱東京UFJ銀行調布支店 AED",
+        "note": "3時で窓口が終わっても、ATMが、オープンの間は使えます！もちろん、土日祭日も！",
+        "opening_hours": "07:00-24:00",
+        "phone": "+81-42-481-5241",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 6 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.543322,
+          35.6507882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150383630",
+      "properties": {
+        "@id": "node/3150383630",
+        "emergency": "defibrillator",
+        "name": "三井住友銀行調布駅前支店 AED",
+        "note": "平日8:00～23:00  土曜日8:00～23:00  日曜日8:00～21:00",
+        "opening_hours": "Mo-Sa 08:00-23:00, Su 08:00-21:00",
+        "phone": "+81-42-488-6321",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 6 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5441265,
+          35.6526962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150419460",
+      "properties": {
+        "@id": "node/3150419460",
+        "access": "JAXA 正門入ってすぐの右側の警備員さんの詰所(？)にも設置されてます。 警備員さんのすぐ後ろの白い棚の中に設置されているのを見せていただきました(撮影はしませんでした) なんと３６５日２４時間、常にどなたかいるそうです。(心強い！！)",
+        "emergency": "defibrillator",
+        "fixme": "詰め所の位置未確認です",
+        "name": "独立行政法人宇宙航空研究開発機構　調布航空宇宙センター JAXA",
+        "opening_hours": "0：00～24：00",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5582958,
+          35.6808149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150424362",
+      "properties": {
+        "@id": "node/3150424362",
+        "access": "展示室内にありました。 入って、すぐの小型超音速実験機の展示の後方です。",
+        "emergency": "defibrillator",
+        "fixme": "展示室のポイント位置は未確認",
+        "name": "独立行政法人宇宙航空研究開発機構　調布航空宇宙センター JAXA",
+        "opening_hours": "Mo-Fri10：00～17：00",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5584806,
+          35.6808399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150441903",
+      "properties": {
+        "@id": "node/3150441903",
+        "FIXME": "ポイント位置は正確ではありません",
+        "access": "AED あるようなのですが、こちらも、見にくいところにありまして…今後の課題です！",
+        "emergency": "defibrillator",
+        "name": "武者小路実篤記念館",
+        "opening_hours": "?",
+        "phone": "＋81-3-3326-0648",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5812846,
+          35.6568134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150451638",
+      "properties": {
+        "@id": "node/3150451638",
+        "access": "入り口入って左側。シールが貼られて無いので外からはあるかどうかわかりずらかったです。",
+        "emergency": "defibrillator",
+        "name": "みずほ銀行調布支店　調布駅東口出張所",
+        "opening_hours": "Mo7：00-26：00；Tu-ｆｒ6：00-26：00；Sat8：00-22：00；Sun&Ho8：00-21：00",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5453217,
+          35.6518125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150466721",
+      "properties": {
+        "@id": "node/3150466721",
+        "access": "柴崎駅のホームにありました！",
+        "aed:location": "下り線ホーム後方車両付近に設置",
+        "emergency": "defibrillator",
+        "name": "京王線柴崎駅 AED",
+        "opening_hours": "05:00-25:00",
+        "phone": "＋81-42-485-4341",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 24 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5671266,
+          35.6542454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150473394",
+      "properties": {
+        "@id": "node/3150473394",
+        "FIXME": "ポイント位置未確認です",
+        "emergency": "defibrillator",
+        "name": "下布田保育園",
+        "phone": "＋81-42-481-7668",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5481504,
+          35.6530326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150477108",
+      "properties": {
+        "@id": "node/3150477108",
+        "FIXME": "ポイント位置は未確認です",
+        "access": "?",
+        "emergency": "defibrillator",
+        "name": "調布市北部公民館",
+        "note": "神代中学校の目の前です。 休館日は月曜日、年末年始、保守点検日。 それ以外の日は午前9時～午後9時半まで使用可能だそうです。 その他、詳しいことは未確認。",
+        "opening_hours": "Tu-Su 09:00-21:30",
+        "phone": "＋81-42-488-2698",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 7 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5626071,
+          35.6617767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150735204",
+      "properties": {
+        "@id": "node/3150735204",
+        "aed:location": "事務所内棚の上に置いてあります！",
+        "emergency": "defibrillator",
+        "name": "染地児童館 AED",
+        "note": "平日9時〜5時(建物は夜まで貸し出して使用可能ですが、事務所は閉めてしまうため、上記時間のみとのこと)",
+        "opening_hours": "Mo-Fr 09:00-17:00",
+        "phone": "+81-42-485-3102",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 5 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5555666,
+          35.6424098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150738902",
+      "properties": {
+        "@id": "node/3150738902",
+        "aed:location": "改札内に設置。",
+        "emergency": "defibrillator",
+        "name": "国領駅 AED",
+        "note:ja": "始発から終電の時間で利用できます。",
+        "opening_hours": "05:00-25:00",
+        "phone": "+81-42-486-3274",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 15 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.558273,
+          35.6500876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150768541",
+      "properties": {
+        "@id": "node/3150768541",
+        "aed:location": "事務所に入って右奥にありました！",
+        "emergency": "defibrillator",
+        "name": "国領児童館 AED",
+        "note": "休館日：児童館 12/29～1/3 ，集会室等 12/28～1/4",
+        "opening_hours": "Mo-Sa 09:00-18:15, Su PH 09:00-17:00",
+        "phone": "+81-42-485-8423",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 21 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5613763,
+          35.64803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150773859",
+      "properties": {
+        "@id": "node/3150773859",
+        "aed:location": "玄関入口にありました。",
+        "emergency": "defibrillator",
+        "name": "在宅介護支援センター調布八雲苑 AED",
+        "phone": "+81-42-484-8011",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 17 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5531205,
+          35.6543506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150778980",
+      "properties": {
+        "@id": "node/3150778980",
+        "emergency": "defibrillator",
+        "name": "三井住友銀行 国領支店 AED",
+        "opening_hours": "07:00-24:00",
+        "phone": "+81-42-483-3131",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 15 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5579659,
+          35.6493563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150785881",
+      "properties": {
+        "@id": "node/3150785881",
+        "aed:location": "図書館事務室内設置",
+        "emergency": "defibrillator",
+        "name": "染地地域福祉センター AED",
+        "note": "毎月第4月曜日・年末年始休館",
+        "opening_hours": "09：00-17：00",
+        "phone": "+81-42-483-5578",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 15 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5566046,
+          35.6396371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150788167",
+      "properties": {
+        "@id": "node/3150788167",
+        "emergency": "defibrillator",
+        "name": "全労済東京事務センター　労済第2会館 AED",
+        "note": "甲州街道と狛江通りのＴ字路かど",
+        "phone": "+81-42-441-5041",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 14 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5570325,
+          35.6522322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150788177",
+      "properties": {
+        "@id": "node/3150788177",
+        "emergency": "defibrillator",
+        "indoor": "yes",
+        "levels": "2",
+        "name": "調布市市民プラザあくろす 3階 AED",
+        "note": "休館日：毎月第３月曜日　※月曜日が祝日の場合は翌平日が休館日",
+        "opening_hours": "08:30-22:00",
+        "phone": "+81-42-443-1220",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 10 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5580745,
+          35.6505605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150802663",
+      "properties": {
+        "@id": "node/3150802663",
+        "Fixme": "ポイント位置未確認です。",
+        "aed:location": "教員PTA校舎入り口脇　24時間使用可能！",
+        "emergency": "defibrillator",
+        "name": "杉森小学校 AED",
+        "opening_hours": "24/7",
+        "phone": "+81-42-485-1267",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 17 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5547307,
+          35.6421792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150840331",
+      "properties": {
+        "@id": "node/3150840331",
+        "FIXME": "ポイント位置未確認です",
+        "aed:location": "PTA入り口外(校庭側)　24時間OK！",
+        "emergency": "defibrillator",
+        "name": "調布市立第三中学校 AED",
+        "opening_hours": "24/7",
+        "phone": "+81-42-482-0293",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 17 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5561603,
+          35.641438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150859700",
+      "properties": {
+        "@id": "node/3150859700",
+        "emergency": "defibrillator",
+        "name": "調布消防署国領出張所 AED",
+        "opening_hours": "24/7",
+        "phone": "+81-42-483-0119",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 20 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5619074,
+          35.6455529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150862836",
+      "properties": {
+        "@id": "node/3150862836",
+        "emergency": "defibrillator",
+        "name": "調布市立図書館　国領分館 AED",
+        "note": "9：00～17：00　４月から９月の水曜・金曜は18：00まで。 休館日 ：毎週月曜と第４月曜の翌日(祝日の場合は翌日)　年末年始・特別整理日",
+        "opening_hours": "Mo-Su 09：00-17：00,　Apr-Sep, We Fr 09:00-18:00",
+        "phone": "+81-42-484-2000",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 12 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5601157,
+          35.6508711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150897981",
+      "properties": {
+        "@id": "node/3150897981",
+        "emergency": "defibrillator",
+        "name": "津田整形外科 AED",
+        "note": "平日　9:00～12:30　15:00～ 19:00　土曜　9:00～12:30 休診日：日曜日・祝祭日",
+        "opening_hours": "Mo-Fr 09:00-12:30 15:00-19:00, Sa 09:00-12:30",
+        "phone": "+81-42-487-0099",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 20 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5587437,
+          35.65161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150902381",
+      "properties": {
+        "@id": "node/3150902381",
+        "emergency": "defibrillator",
+        "name": "AED（八雲台ふれあいの家）",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5554311,
+          35.6541346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150926840",
+      "properties": {
+        "@id": "node/3150926840",
+        "aed:location": "建物に入って、左の部屋に設置",
+        "emergency": "defibrillator",
+        "name": "立正佼成会　調布教会 AED",
+        "note": "建物に入って、左の部屋に設置してありましたが、写真撮影は拒否されました。",
+        "phone": "+81-42-485-7776",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 13 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5581623,
+          35.6480333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150945338",
+      "properties": {
+        "@id": "node/3150945338",
+        "access": "private",
+        "aed:location": "マンションメインエントランス内",
+        "emergency": "defibrillator",
+        "name": "グランドオペラつつじケ丘 AED",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 21 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5635321,
+          35.6606522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3151043231",
+      "properties": {
+        "@id": "node/3151043231",
+        "emergency": "defibrillator",
+        "indoor": "yes",
+        "name": "マツモトキヨシ深大寺店 AED",
+        "note": "ショルダーバッグ型で、柱にぶら下げてあり、印象的でした。",
+        "opening_hours": "09:00-21:45",
+        "phone": "+81-42-499-6380",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 21 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5625826,
+          35.6677955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3151048041",
+      "properties": {
+        "@id": "node/3151048041",
+        "access": "private",
+        "aed:location": "メインエントランス内",
+        "emergency": "defibrillator",
+        "name": "ライオンズ調布つつじヶ丘シーズンズヒル AED",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 21 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5637896,
+          35.6619772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3151094587",
+      "properties": {
+        "@id": "node/3151094587",
+        "emergency": "defibrillator",
+        "name": "富士フイルムイメージングシステムズ　調布事業所 AED",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 20 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5657262,
+          35.6586778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3151102182",
+      "properties": {
+        "@id": "node/3151102182",
+        "Fixme": "ポイント位置、要確認。",
+        "aed:location": "2階職員玄関右脇",
+        "emergency": "defibrillator",
+        "name": "神代中学校 2F AED",
+        "phone": "+81-42-482-0171",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0,18 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5617672,
+          35.6614324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3151111418",
+      "properties": {
+        "@id": "node/3151111418",
+        "aed:location": "4つの病院が入っているビル 共通の入り口を入ってすぐ左側の窓側に設置",
+        "emergency": "defibrillator",
+        "name": "深大寺メディカルビル AED",
+        "opening_hours": "Mo-Fr 09:00-18:00, Sa 09:00-12:30",
+        "phone": "+81-42-440-3200",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 17 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5622286,
+          35.6682182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3151796860",
+      "properties": {
+        "@id": "node/3151796860",
+        "FIXME": "ポイント位置は未確認です",
+        "access": "夜なので、門の外側から撮影しました。1階エントランスにAEDが設置されていました。",
+        "emergency": "defibrillator",
+        "name": "健康活動ひろば",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5417346,
+          35.64569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3151805115",
+      "properties": {
+        "@id": "node/3151805115",
+        "FIXME": "AEDのポイント位置未確認です",
+        "access": "おまわりさんがパトロール中のため写真だけ撮らせていただきました。",
+        "emergency": "defibrillator",
+        "name": "多摩川住宅交番",
+        "opening_hours": "0：00－24：00",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 23 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5598309,
+          35.6396668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3151821701",
+      "properties": {
+        "@id": "node/3151821701",
+        "FIXME": "建物がここで合っているか、要確認",
+        "emergency": "defibrillator",
+        "indoor": "yes",
+        "memo": "子供用のクリニックなので、成人AEDと小児AED両方を設置してあるそうです。ステッカーは掲示されていませんでした。",
+        "name": "やぎぬまこどもクリニック　ＡＥＤ",
+        "opening_hours": "Mo-Fr9:00-12:00,14:00-15:30, 16:00-19:00;Sa9:00-12:00",
+        "phone": "＋81-42-490-8031",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 22 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5735385,
+          35.6583141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3151829989",
+      "properties": {
+        "@id": "node/3151829989",
+        "emergency": "defibrillator",
+        "name": "JAマインズ西調布支店 AED",
+        "opening_hours": "09:00-15:00",
+        "phone": "+81-42-486-4741",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 8 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.530125,
+          35.6562692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3151831654",
+      "properties": {
+        "@id": "node/3151831654",
+        "emergency": "defibrillator",
+        "name": "悠悠いきいき倶楽部 AED",
+        "note": "定休日：土曜・日曜・祝祭日　午後４時を過ぎていたので、AEDの写真は撮れませんでした。",
+        "opening_hours": "Mo-Fr 09:30-11:30, 13:30-15:30",
+        "phone": "+81-42-443-0951",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 18 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5649079,
+          35.6545605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3151833397",
+      "properties": {
+        "@id": "node/3151833397",
+        "aed:location": "2F改札内、下り線ホーム行き階段付近に設置",
+        "emergency": "defibrillator",
+        "levels": "1",
+        "name": "西調布駅 AED",
+        "note": "始発～終電の時間帯で利用可能",
+        "opening_hours": "04:59-24:49",
+        "phone": "+81-42-485-5688",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 8 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5301357,
+          35.6570668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3151833660",
+      "properties": {
+        "@id": "node/3151833660",
+        "emergency": "defibrillator",
+        "name": "上石原交番 AED",
+        "note": "24時間使えます。時間帯によってはお巡りさんが巡回パトロールで不在時あり。",
+        "opening_hours": "24/7",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 14 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5303959,
+          35.6586751
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3151833817",
+      "properties": {
+        "@id": "node/3151833817",
+        "emergency": "defibrillator",
+        "name": "西調布体育館 AED",
+        "note": "休館日：第2．第4月曜日（月曜日が祝日の場合はその翌日）、12月29日から1月3日",
+        "opening_hours": "09:00-21:00",
+        "phone": "+81-42-481-2400",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 17 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5266864,
+          35.6570995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3151836501",
+      "properties": {
+        "@id": "node/3151836501",
+        "emergency": "defibrillator",
+        "name": "西部地域福祉センター AED",
+        "note": "休館日：毎月第4月曜日、年末年始休館",
+        "opening_hours": "09:00-21:30",
+        "phone": "+81-42-486-1600",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 17 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.525348,
+          35.6555652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3151836904",
+      "properties": {
+        "@id": "node/3151836904",
+        "FIXME": "ポイント位置、未確認です。",
+        "aed:location": "正面玄関、職員用入口横に設置してあります。",
+        "emergency": "defibrillator",
+        "name": "調布市立 調布中学校 AED",
+        "note": "土・日も、部活動などあるため学校は、通常通りありますとの事。",
+        "phone": "+81-42-482-0275",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 15 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5351032,
+          35.6653762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3151839080",
+      "properties": {
+        "@id": "node/3151839080",
+        "aed:location": "ターミナルのロビー トイレの前です",
+        "emergency": "defibrillator",
+        "indoor": "yes",
+        "name": "調布飛行場 AED",
+        "phone": "+81-422-34-4840",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 7 October 2014",
+        "source2": "Chofu Mapping Party Contributors, CC BY 4.0, 1 November 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5294732,
+          35.6725213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3151839683",
+      "properties": {
+        "@id": "node/3151839683",
+        "emergency": "defibrillator",
+        "name": "富士見町ふれあいの家　AED",
+        "phone": "+81-42-485-3355",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0,"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.537603,
+          35.6625629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3151846711",
+      "properties": {
+        "@id": "node/3151846711",
+        "aed:location": "正門入って、左側に警備室。ここに設置してあります。",
+        "emergency": "defibrillator",
+        "name": "NTT中央研修センタ AED",
+        "note": "敷地内すべて写真撮影不可でした。仙川門から少し離れた場所でパチリ。だだっぴろい敷地内に大小合わせて12棟？たぶん、3ヶ所くらいは設置してあると思います。",
+        "phone": "+81-3-3483-6090",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 10 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5884496,
+          35.6507072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3151847493",
+      "properties": {
+        "@id": "node/3151847493",
+        "aed:location": "同じ敷地内に工場があり、そこに設置されているそうです。",
+        "emergency": "defibrillator",
+        "name": "Tomatsu BMW AED",
+        "opening_hours": "10:00-19:00",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 14 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5833963,
+          35.662637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3151848665",
+      "properties": {
+        "@id": "node/3151848665",
+        "Fixme": "ポイント位置未確認",
+        "emergency": "defibrillator",
+        "name": "マヨテラス AED",
+        "note": "休館日：土・日・祝日・その他臨時休館日　入館料：無料　入館は予約制ということで門前払い",
+        "phone": "+81-3-5384-7770",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 15 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.580757,
+          35.6616084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3151849304",
+      "properties": {
+        "@id": "node/3151849304",
+        "emergency": "defibrillator",
+        "name": "仙川交番 AED",
+        "note": "訪問時、若い警官が駐在。写真は撮れず 。",
+        "opening_hours": "24/7",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 14 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.585349,
+          35.6621314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3151849305",
+      "properties": {
+        "@id": "node/3151849305",
+        "aed:location": "仙川のゆるきゃら、ハーモニーくんが目印です。 自動扉入って右手。",
+        "emergency": "defibrillator",
+        "name": "仙川商店街協同組合事務局 AED",
+        "note": "商店街でAED講習会を開いたこともあります。",
+        "opening_hours": "Mo-Sa 10:00-18:00",
+        "phone": "+81-3-3307-6379",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 16 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5836887,
+          35.6609568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3151849318",
+      "properties": {
+        "@id": "node/3151849318",
+        "aed:location": "受付右側",
+        "emergency": "defibrillator",
+        "name": "調布市希望の家 分場 / 入間地域福祉センター  AED",
+        "note": "休館日　毎月第4月曜日・年末年始休館　受付右側に設置　遅い時間はシルバー人材センターの方だけがいらっしゃる場合があります。",
+        "opening_hours": "09:00-21:30",
+        "phone": "+81-3-3305-7737",
+        "phone2": "+81-3-3309-4996",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 14 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5873714,
+          35.6538435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3151850808",
+      "properties": {
+        "@id": "node/3151850808",
+        "Fixme": "ポイント位置未確認です。",
+        "emergency": "defibrillator",
+        "name": "東部保育園 AED",
+        "note": "休園日：日曜日、祝日、年末年始 普段出入口には鍵がかかっていてインターホンで開けてもらいます。",
+        "opening_hours": "Mo-Sa 07:00-19:00",
+        "phone": "+81-3-3307-2081",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 16 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5828706,
+          35.6582578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3151854434",
+      "properties": {
+        "@id": "node/3151854434",
+        "aed:location": "1F上りエスカレーター前、自動販売機の中に設置しています。「自販機の中」というのが気になる。",
+        "emergency": "defibrillator",
+        "name": "島忠ホームズ AED",
+        "opening_hours": "Mo-Su 10:00-20:00",
+        "phone": "+81-3-5314-3300",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 10 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5866525,
+          35.6589323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3151854435",
+      "properties": {
+        "@id": "node/3151854435",
+        "aed:location": "1F上りエスカレーター前、自動販売機の中に設置しています。",
+        "emergency": "defibrillator",
+        "indoor": "yes",
+        "name": "島忠ホームズ AED",
+        "opening_hours": "10:00-20:00",
+        "phone": "+81-3-5314-3300",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 10 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5866525,
+          35.6589323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3151856955",
+      "properties": {
+        "@id": "node/3151856955",
+        "aed:location": "改札階（１F）、新宿方面ホーム行き階段付近に設置",
+        "emergency": "defibrillator",
+        "name": "仙川駅 AED",
+        "note": "多言語（英語、中国語、韓国語）表記ですね。始発～終電の時間利用可能。",
+        "opening_hours": "04:44-24:51",
+        "phone": "+81-3-3308-1722",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 20 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5849976,
+          35.6623777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3151861263",
+      "properties": {
+        "@id": "node/3151861263",
+        "aed:location": "事務所入って左手の棚。管理者は市の職員の方。懐中電灯などと一緒に保管されていました。",
+        "emergency": "defibrillator",
+        "indoor": "yes",
+        "name": "せんがわ劇場 AED",
+        "opening_hours": "09:00-22:00",
+        "phone": "+81-3-3300-0611",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 16 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5868752,
+          35.6615191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3151863149",
+      "properties": {
+        "@id": "node/3151863149",
+        "Fixme": "ポイント位置未確認です。",
+        "emergency": "defibrillator",
+        "name": "東部児童館 AED",
+        "note": "休館日： 児童館 12/29～1/3 ，集会室等 12/28～1/4",
+        "opening_hours": "09:00-21:30",
+        "phone": "+81-3-3307-6146",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 16 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5827566,
+          35.6582099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3151869262",
+      "properties": {
+        "@id": "node/3151869262",
+        "Fixme": "ポイント位置未確認です",
+        "emergency": "defibrillator",
+        "name": "東部公民館 AED",
+        "note": "休館日：毎週月曜日、年末年始(12月29日から1月3日まで) 東部児童館、東部保育園、東部公民館の複合施設それぞれに１つAEDがあります。",
+        "opening_hours": "Tu-Su 09:00-21:30",
+        "phone": "+81-3-3309-4505",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 16 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.582817,
+          35.6582055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3151878847",
+      "properties": {
+        "@id": "node/3151878847",
+        "FIXME": "ポイント位置、未確認です。",
+        "emergency": "defibrillator",
+        "name": "明西寺 AED",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5858801,
+          35.6582273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3151879260",
+      "properties": {
+        "@id": "node/3151879260",
+        "emergency": "defibrillator",
+        "name": "ローレル歯科医院 AED",
+        "opening_hours": "Mo-Fr 09:00-19:00　Sa 09:00-18:00",
+        "phone": "+81-42-488-7478",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 21 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5405615,
+          35.6614003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3151879411",
+      "properties": {
+        "@id": "node/3151879411",
+        "aed:location": "事務所の中に設置。",
+        "emergency": "defibrillator",
+        "name": "アインズ&トルペ調布店 AED",
+        "note": "営業時間　月～金　8:00～22:00　土・日・祝　10:00～22:00 事務所の中に設置されていて入らせて貰えませんでした。",
+        "opening_hours": "Mo-Fr 08:00-22:00, Sa Su PH 10:00-22:00",
+        "phone": "+81-42-485-0560",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 17 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5426268,
+          35.6520509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3151879413",
+      "properties": {
+        "@id": "node/3151879413",
+        "Fixme": "ポイント位置未確認です。",
+        "access": "private",
+        "aed:location": "エントランス",
+        "emergency": "defibrillator",
+        "name": "ダイアパレス調布 AED",
+        "note": "エントランスにありました（今まで気付かなかった。）。入り口外からは存在わかりません。",
+        "phone": "+81-42-483-2557",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 18 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5457701,
+          35.6530592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3151880060",
+      "properties": {
+        "@id": "node/3151880060",
+        "emergency": "defibrillator",
+        "name": "京王調布ＪＶ工事事務所 AED",
+        "note": "調布アフラック近辺の調布駅前開発工事の管理事務所です。AED は、事務所の中にあるよう.",
+        "phone": "+81-42-487-8645",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 19 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5405615,
+          35.6520421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3151880315",
+      "properties": {
+        "@id": "node/3151880315",
+        "emergency": "defibrillator",
+        "name": "ちょうふだぞう AED",
+        "note": "定休日：日曜。入口左側にAED設置シールがありました。",
+        "opening_hours": "Mo-Sa 10:30-18:30",
+        "phone": "+81-42-487-4552",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 20 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5477659,
+          35.6522645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3151880652",
+      "properties": {
+        "@id": "node/3151880652",
+        "emergency": "defibrillator",
+        "name": "メガロス 調布店 AED",
+        "note": "営業時間　月～木9:30～23:00　土9:30～21:00　日／祝9:30～20:00 定休日：毎週金曜日、夏期、年末年始",
+        "opening_hours": "Mo-Th 09:30-23:00, Sa 09:30-21:00, Su PH 9:30-20:00",
+        "phone": "+81-42-490-5100",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 15 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5443058,
+          35.65498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3151882205",
+      "properties": {
+        "@id": "node/3151882205",
+        "emergency": "defibrillator",
+        "name": "電通大 正門守衛 AED",
+        "phone": "+81-42-443-5000",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 17 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5436682,
+          35.6555359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3151882311",
+      "properties": {
+        "@id": "node/3151882311",
+        "emergency": "defibrillator",
+        "indoor": "yes",
+        "levels": "3",
+        "name": "電気通信大学　東3号館4階 AED",
+        "note": "東地区の東3号館4階にあります。学内専用ですね。",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 17 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5437299,
+          35.6576085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3151883233",
+      "properties": {
+        "@id": "node/3151883233",
+        "emergency": "defibrillator",
+        "name": "電通大 西門守衛 AED",
+        "phone": "+81-42-443-5000",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 17 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5402409,
+          35.6574231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3151888222",
+      "properties": {
+        "@id": "node/3151888222",
+        "emergency": "defibrillator",
+        "indoor": "yes",
+        "levels": "0",
+        "name": "東急ストア　調布とうきゅう AED",
+        "note": "営業時間 B1・1F 10:00～22:00　2F・3F 10:00～21:00真ん中の入り口(宝くじ売り場横)入ってすぐ右側にあります。となりのサンドラッグには置いてないそうです。",
+        "opening_hours": "10:00-22:00",
+        "phone": "+81-42-486-0109",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 13 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5431979,
+          35.6499034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3151891989",
+      "properties": {
+        "@id": "node/3151891989",
+        "emergency": "defibrillator",
+        "name": "東京ガスキッチンランド AED",
+        "note": "定休日：毎週月曜日・その他教室休業日",
+        "opening_hours": "Tu-Su 09:00-17:00",
+        "phone": "+81-42-482-1245",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 15 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5481237,
+          35.6542601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3151892421",
+      "properties": {
+        "@id": "node/3151892421",
+        "emergency": "defibrillator",
+        "name": "東京スター銀行 AED",
+        "note": "キャッシュディスペンサーのコーナーには設置されていないので、使用できるのはオープン時のみ。",
+        "opening_hours": "Mo-Sa 09:00-17:00",
+        "phone": "+81-42-442-4155",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 15 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5442935,
+          35.6529568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3151897131",
+      "properties": {
+        "@id": "node/3151897131",
+        "emergency": "defibrillator",
+        "name": "東京電力調布営業センター AED",
+        "note": "甲州街道調布ヶ丘交差点横。因みにお向かいは東京ガス調布市店。こちらにも設置しているようですが、残念ながら伺えず。",
+        "opening_hours": "Mo-Fr 09:00-17:00",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 10 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5482377,
+          35.6540171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3151898210",
+      "properties": {
+        "@id": "node/3151898210",
+        "emergency": "defibrillator",
+        "name": "布多天神社 AED",
+        "phone": "+81-42-489-0022",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 15 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5453221,
+          35.656639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3151899704",
+      "properties": {
+        "@id": "node/3151899704",
+        "emergency": "defibrillator",
+        "indoor": "yes",
+        "levels": "11",
+        "name": "文化会館たづくり12F AED",
+        "note": "休館日:毎月第４月曜その翌日（ 変則あり）、12月29日～1月3日　調布たづくりには5階図書館作業室、7階財団事務室、12階、西館1階、4階の5カ所に設置しているそうです。",
+        "phone": "+81-42-441-6111",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 13 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5417119,
+          35.6509419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3151900036",
+      "properties": {
+        "@id": "node/3151900036",
+        "emergency": "defibrillator",
+        "indoor": "yes",
+        "levels": "4",
+        "name": "文化会館たづくり5F 図書館作業室 AED",
+        "note": "休館日:第４月曜日とその翌日　(ただし、祝日と重なる場合はその前後の週が休館となります。)",
+        "opening_hours": "09:00-20:30",
+        "phone": "+81-42-441-6181",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 13 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5417789,
+          35.6509332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3151900070",
+      "properties": {
+        "@id": "node/3151900070",
+        "emergency": "defibrillator",
+        "indoor": "yes",
+        "levels": "6",
+        "name": "文化会館たづくり7F 財団事務室 AED",
+        "note": "休館日:毎月第４月曜その翌日（ 変則あり）、12月29日～1月3日　調布たづくりには5階図書館作業室、7階財団事務室、12階、西館1階、4階の5カ所に設置しているそうです。",
+        "opening_hours": "09:00-21:30",
+        "phone": "+81-42-441-6145",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 13 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5416395,
+          35.6509463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3151901070",
+      "properties": {
+        "@id": "node/3151901070",
+        "emergency": "defibrillator",
+        "name": "野村証券 調布支店 AED",
+        "opening_hours": "Mo-Fr 08:50-15:30",
+        "phone": "+81-42-498-6011",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 15 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5443136,
+          35.653165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3151901167",
+      "properties": {
+        "@id": "node/3151901167",
+        "emergency": "defibrillator",
+        "name": "文化会館たづくり　西館1階　保健センター AED",
+        "note": "設置場所の北側の入り口は18時に閉まるそうですが、南側の入り口からは18時以降も入館出来ます。",
+        "opening_hours": "08:30-22:00",
+        "phone": "+81-42-441-6100",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0,"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5408965,
+          35.6510879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3151906099",
+      "properties": {
+        "@id": "node/3151906099",
+        "emergency": "defibrillator",
+        "indoor": "yes",
+        "name": "林建設株式会社 1F AED",
+        "note": "1階と、5階に、1台ずつ設置されてます。",
+        "phone": "+81-42-486-1111",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 10 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5429671,
+          35.6487689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3151907780",
+      "properties": {
+        "@id": "node/3151907780",
+        "aed:location": "ロビーに設置されています。",
+        "emergency": "defibrillator",
+        "name": "調布市教育会館 AED",
+        "note": "休館日：第2土曜日、年末年始（12月29日から1月3日） ロビーに設置されています。",
+        "opening_hours": "09:00-22:00",
+        "phone": "+81-42-481-7717",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 21 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5417226,
+          35.6503011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3151908734",
+      "properties": {
+        "@id": "node/3151908734",
+        "aed:brand": "日本光電",
+        "aed:location": "１F改札内、改札口付近に設置",
+        "emergency": "defibrillator",
+        "name": "布田駅 AED",
+        "note": "始発～終電の時間帯利用可能",
+        "opening_hours": "05:04-24:58",
+        "phone": "+81-42-486-3288",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 17 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5512565,
+          35.6499186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3151911664",
+      "properties": {
+        "@id": "node/3151911664",
+        "emergency": "defibrillator",
+        "name": "矢野歯科医院 AED",
+        "note": "月火水金 09:30～12:30、14:15～17:30土 9:30～12:30、14:00～16:30休診日：木日祝　受付の方にお話を伺ったところ「受付脇の棚の上にありますので、開院中であれば、対応出来ます」とのことでした。",
+        "opening_hours": "Mo-We Fr 09:30-12:30 14:15-17:30, Sa 09:30-12:30 14:00-16:30",
+        "phone": "+81-42-488-3351",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 21 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5491966,
+          35.6517832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3151911990",
+      "properties": {
+        "@id": "node/3151911990",
+        "emergency": "defibrillator",
+        "name": "しおり小児科 AED",
+        "note": "休診日：水曜・日曜・祝日　旧甲州街道沿い 調布と布田の間にあるしおり小児科さん。 詳細は下記のHPをご覧ください　http://shioriped.com/",
+        "opening_hours": "Mo Tu Th-Sa,09:00-17:30",
+        "phone": "+81-42-440-7213",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 13 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5494983,
+          35.6515238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3151921697",
+      "properties": {
+        "@id": "node/3151921697",
+        "emergency": "defibrillator",
+        "name": "AED(調布基地跡地運動広場 E2グランド)",
+        "note": "広場内地図　http://www.city.chofu.tokyo.jp/www/contents/1176118846139/simple/map.png",
+        "opening_hours": "06：00-17：00;Nov 16th - Mar 14th:09:00-17:00",
+        "phone": "+81-42-481-4390",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 17 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5269114,
+          35.6674762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3151932557",
+      "properties": {
+        "@id": "node/3151932557",
+        "emergency": "defibrillator",
+        "name": "ミズノフットサルプラザ調布 AED",
+        "opening_hours": "Mo-Fr 10:00-24:00, Sa Su 08:00-24:00",
+        "phone": "+81-42-440-0945",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 21 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5256146,
+          35.6659029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3151953433",
+      "properties": {
+        "@id": "node/3151953433",
+        "emergency": "defibrillator",
+        "name": "MIZUNO FUTSAL PLAZA 味の素スタジアム  AED",
+        "opening_hours": "Mo-Fr 10:00-24:00, Sa Su 08:00-24:00",
+        "phone": "+81-42-440-0945",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 21 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.525345,
+          35.664092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3151960154",
+      "properties": {
+        "@id": "node/3151960154",
+        "emergency": "defibrillator",
+        "name": "市民西町サッカー場 AED",
+        "note": "グランド内、用具入れの中？",
+        "opening_hours": "6：00～17：00　11月16日から3月14日9：00～17：00",
+        "phone": "080-2119-4506",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 17 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5317448,
+          35.6650203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3151963993",
+      "properties": {
+        "@id": "node/3151963993",
+        "emergency": "defibrillator",
+        "name": "市民西町野球場管理事務所 AED",
+        "opening_hours": "09:00-17:00",
+        "phone": "080-2119-4506",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0,"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5332817,
+          35.6676374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3151972917",
+      "properties": {
+        "@id": "node/3151972917",
+        "emergency": "defibrillator",
+        "name": "調布基地跡地運動広場 管理事務所 AED",
+        "note": "広場内地図　http://www.city.chofu.tokyo.jp/www/contents/1176118846139/simple/map.png",
+        "opening_hours": "06：00-17：00;Nov 16th - Mar 14th:09:00-17:00",
+        "phone": "+81-42-481-4390",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 17 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.525345,
+          35.6685374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3151973218",
+      "properties": {
+        "@id": "node/3151973218",
+        "emergency": "defibrillator",
+        "name": "飛田給駅前交番 AED",
+        "note": "電話番号は調布警察署のもの。そこから繋いでくれます。",
+        "opening_hours": "24/7",
+        "phone": "+81-42-488-0110",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 21 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5233843,
+          35.6603416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3151978336",
+      "properties": {
+        "@id": "node/3151978336",
+        "emergency": "defibrillator",
+        "name": "AED 調布基地跡地運動広場 E5,E6付近",
+        "note": "広場内地図　http://www.city.chofu.tokyo.jp/www/contents/1176118846139/simple/map.png",
+        "opening_hours": "06：00-17：00;Nov 16th - Mar 14th:09:00-17:00",
+        "phone": "+81-42-481-4390",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 17 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5250849,
+          35.672514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3151982749",
+      "properties": {
+        "@id": "node/3151982749",
+        "emergency": "defibrillator",
+        "levels": "1",
+        "name": "佐須図書館 AED",
+        "note": "休館日： 毎週月曜日と第4月曜日の翌日（ただし、毎月第4月曜日を除く月曜日が祝日と重なる場合は、その翌日。また、第4月曜日とその翌日が祝日と重なる場合はその前後の週。）     年末年始     特別整理日 佐須児童館の2階です。 本棚に置いてありました。",
+        "opening_hours": "Tu-Su 09:00-17:00（4月から9月の水曜日・金曜日は18：00まで）",
+        "phone": "+81-42-485-1306",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 20 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5562521,
+          35.6585764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3151983028",
+      "properties": {
+        "@id": "node/3151983028",
+        "aed:location": "2F改札内。",
+        "emergency": "defibrillator",
+        "name": "飛田給駅 AED",
+        "note": "始発～終電の時間帯で利用可能。",
+        "opening_hours": "04:48-24:50",
+        "phone": "+81-42-486-2877",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 7 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.523261,
+          35.6602544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3151984910",
+      "properties": {
+        "@id": "node/3151984910",
+        "emergency": "defibrillator",
+        "name": "Cafe Gallery さえずり AED",
+        "note": "定休日：　日曜・祝日・月末　(めじろ作業所の　行事により臨時休業あり） 　職員さんは9:00からいるそうです。",
+        "opening_hours": "Mo-Sa 10:00-17:00",
+        "phone": "+81-42-443-1633",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 21 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5512149,
+          35.6510836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3151985093",
+      "properties": {
+        "@id": "node/3151985093",
+        "emergency": "defibrillator",
+        "name": "飛田給ふれあいの家 AED",
+        "note": "自動扉入って右手にあります。行った時は施設利用者がいないためAEDは利用不可でした。管理人：サカエヤクリーニング　 住所：調布市飛田給1-11-3 電話：042-482-9439　http://www.city.chofu.tokyo.jp/www/contents/1187849661597/index.html",
+        "opening_hours": "09:00-18:00",
+        "operator": "サカエヤクリーニング",
+        "phone": "+81-42-482-9439",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0,"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5227192,
+          35.6630438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3151986220",
+      "properties": {
+        "@id": "node/3151986220",
+        "aed:location": "入ってすぐ事務所の窓口にありました。",
+        "emergency": "defibrillator",
+        "levels": "0",
+        "name": "佐須児童館 AED",
+        "note": "佐須図書館と同じ建物にあり、児童館は1階。",
+        "opening_hours": "09:00-21:30",
+        "phone": "+81-42-481-0348",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 20 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5562146,
+          35.6585633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3151994859",
+      "properties": {
+        "@id": "node/3151994859",
+        "Fixme": "Position ungenau",
+        "aed:location": "体育館の入り口に設置されているそうです。",
+        "emergency": "defibrillator",
+        "name": "市立八雲台小学校 AED",
+        "phone": "+81-42-485-1255",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 15 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5527223,
+          35.6537033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3151999896",
+      "properties": {
+        "@id": "node/3151999896",
+        "emergency": "defibrillator",
+        "name": "多摩信用金庫 調布支店 AED",
+        "opening_hours": "Mo-Fr 09:00-15:00",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 20 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5521644,
+          35.6510792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3152000997",
+      "properties": {
+        "@id": "node/3152000997",
+        "aed:location": "入って左手にある自動販売機横",
+        "emergency": "defibrillator",
+        "name": "多摩川病院 AED",
+        "note": "休診日：日曜・祝祭日　入って左手にある自動販売機横",
+        "opening_hours": "受付時間 08:30-12:00　13:30-16:30",
+        "phone": "+81-42-483-4114",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 21 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5543183,
+          35.6486577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3152006015",
+      "properties": {
+        "@id": "node/3152006015",
+        "emergency": "defibrillator",
+        "levels": "1",
+        "name": "AED(西部公民館)",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5221183,
+          35.65308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3152007400",
+      "properties": {
+        "@id": "node/3152007400",
+        "emergency": "defibrillator",
+        "levels": "0",
+        "name": "AED(西部児童館)",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5220989,
+          35.6530718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3152017502",
+      "properties": {
+        "@id": "node/3152017502",
+        "emergency": "defibrillator",
+        "name": "青少年交流館 AED",
+        "note": "休館日：年末年始（1月1日から3日まで，12月29日から31日まで），臨時休館日　調布市市民サービス公社の方が交代で受付をされていて、全員AED講習を受講済みとのことです。午前中は近所のカラオケ大会、夜はお祭りの寄り合いなどがあるので、何かあったら駆け込めます。玄関入って正面に26日のイベントチラシを貼ってくださいました。　http://www.city.chofu.tokyo.jp/www/contents/1176118919305/",
+        "opening_hours": "10:00-22:00",
+        "phone": "+81-42-481-1115",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 21 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5254262,
+          35.6608537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3152018032",
+      "properties": {
+        "@id": "node/3152018032",
+        "aed:location": "受付カウンター奥に設置されていました。",
+        "emergency": "defibrillator",
+        "name": "楽天地フットサルコート調布 AED",
+        "opening_hours": "Mo-Fr 12:00-23:00, Sa Su PH 08:00～23:00",
+        "phone": "+81-42-481-0035",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 22 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5517722,
+          35.6380566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3152019030",
+      "properties": {
+        "@id": "node/3152019030",
+        "aed:location": "イベントセミナールームにあるトイレ横に設置",
+        "emergency": "defibrillator",
+        "name": "京王フローラルガーデンアンジェ AED",
+        "note": "3月～9月:10:00～17:30 10月～2月:10:00～16:30 休園日：水曜日（水曜日が祝日の場合はその翌日）　年末年始 (12月29日～1月3日)　入場券売り場横にAED設置シールがありました。閉園後と休園日はシャッターが閉まるため、使用できません。",
+        "phone": "+81-42-480-2833",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 31 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5365216,
+          35.6447986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3152021135",
+      "properties": {
+        "@id": "node/3152021135",
+        "emergency": "defibrillator",
+        "fixme": "check/adjust position and/or merge with existing stop if exists",
+        "name": "桐朋学園 AED",
+        "phone": "+81-3-3300-2111",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 21 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5842417,
+          35.6587878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3152025267",
+      "properties": {
+        "@id": "node/3152025267",
+        "aed:location": "入口の内側脇に設置",
+        "emergency": "defibrillator",
+        "name": "多摩川自然情報館 AED",
+        "opening_hours": "09:00-17:00",
+        "phone": "+81-42-486-3174",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 22 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5573445,
+          35.6370931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3152032046",
+      "properties": {
+        "@id": "node/3152032046",
+        "emergency": "defibrillator",
+        "name": "中村医院 AED",
+        "note": "休診日: 木・日・祝",
+        "opening_hours": "Mo-We Fr 09:00-18:30　Sa 09:00-11:30",
+        "phone": "+81-42-482-2036",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 22 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5288017,
+          35.6541773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3152034027",
+      "properties": {
+        "@id": "node/3152034027",
+        "Fixme": "ポイント位置未確認です。",
+        "emergency": "defibrillator",
+        "name": "コクティー管理組合防災センター AED",
+        "note": "1階にAED があるようです。",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 22 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5579607,
+          35.6506792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3152036664",
+      "properties": {
+        "@id": "node/3152036664",
+        "emergency": "defibrillator",
+        "name": "ハートフルとむ AED",
+        "note": "施設長さんからは、「近所で何かあった時は是非活用して頂きたい」との言葉を頂きました。",
+        "phone": "+81-42-442-4181",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 22 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.52517,
+          35.6622975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3152037823",
+      "properties": {
+        "@id": "node/3152037823",
+        "aed:locaiton": "入ってすぐ右側",
+        "emergency": "defibrillator",
+        "name": "SAPつつじヶ丘 AED",
+        "opening_hours": "10:00-22:45",
+        "phone": "+81-3-3305-3778",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 22 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5755151,
+          35.6587278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3152040353",
+      "properties": {
+        "@id": "node/3152040353",
+        "emergency": "defibrillator",
+        "name": "カーブスつつじが丘 AED",
+        "note": "店長さんにお話を聞いたのですが、かなり詳しく使い方や対処法を熟知しているようでした。",
+        "opening_hours": "Mo-Fr 10:00-13:00 15:00-19:00, Sa 10:00～13:00",
+        "phone": "+81-42-444-1525",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 22 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5744372,
+          35.6589455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3152042662",
+      "properties": {
+        "@id": "node/3152042662",
+        "emergency": "defibrillator",
+        "name": "秋鹿クリニック AED",
+        "note": "AEDは診察室にあり。 ステッカーは掲示していないので、あることを知っている人はあまりいないのでは・・・とのことでした。撮影も、診療中だったこともあり難しいとのお話でしたので、AED設置施設である、という情報のみ記載しておきます。",
+        "opening_hours": "Mo-Fr 09:00-12:00 15:00-18:00, Sa 09:00-12:00",
+        "phone": "+81-42-489-5577",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 22 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.57371,
+          35.6579019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3152602522",
+      "properties": {
+        "@id": "node/3152602522",
+        "emergency": "defibrillator",
+        "indoor": "yes",
+        "name": "文化会館たづくり西館4F AED",
+        "note": "北側の入り口は18時に閉まるそうですが、南側の入り口からは18時以降も入館出来ます。",
+        "opening_hours": "08:30-22:00",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 9 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5408306,
+          35.6511036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3153879121",
+      "properties": {
+        "@id": "node/3153879121",
+        "access": "private",
+        "emergency": "defibrillator",
+        "fixme": "check/adjust position and/or merge with existing stop if exists",
+        "name": "スィートハウスソフィア調布ヶ丘（マンション） AED",
+        "note": "管理人：平日9時―17時",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 26 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5492539,
+          35.6586497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3153880350",
+      "properties": {
+        "@id": "node/3153880350",
+        "emergency": "defibrillator",
+        "fixme": "check/adjust position and/or merge with existing stop if exists",
+        "name": "調布ヶ丘地域福祉センター",
+        "opening_hours": "09:00‐17:00",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 26 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5501766,
+          35.6596892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3153909196",
+      "properties": {
+        "@id": "node/3153909196",
+        "emergency": "defibrillator",
+        "name": "後楽園スポーツクラブ調布 AED",
+        "note": "10時-21時など（季節、曜日で異なる。）",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 26 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5469043,
+          35.6577039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3153910796",
+      "properties": {
+        "@id": "node/3153910796",
+        "emergency": "defibrillator",
+        "name": "マイクロソフト調布技術センター AED",
+        "note": "8時-20時 守衛さんがいれば24時間",
+        "opening_hours": "08:00-20:00",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 26 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5469713,
+          35.6570538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3155122011",
+      "properties": {
+        "@id": "node/3155122011",
+        "access": "利用者がいないときは鍵がかかっています。管理者は近くの八雲園。甲州街道に向かって2本目の路地を左。右側に緑色の幌のあるところが八雲園。八雲園の電話　042-484-3838",
+        "contact:phone": "+81-42-484-3838",
+        "emergency": "defibrillator",
+        "name": "八雲台ふれあいの家",
+        "note": "鍵は近所のタバコ屋さん が管理して下さっています。八雲園",
+        "opening_hours": "不定期 \"call us\"",
+        "operator": "八雲園",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 20 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5554961,
+          35.6541611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3166577346",
+      "properties": {
+        "@id": "node/3166577346",
+        "access": "店内休憩所奥にあります",
+        "emergency": "defibrillator",
+        "name": "調布のやさい畑　AED",
+        "opening_hours": "8:45-18:00（summer time -19:00)",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5478675,
+          35.6627565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3191400686",
+      "properties": {
+        "@id": "node/3191400686",
+        "aed:location": "昇降口の外壁に設置",
+        "emergency": "defibrillator",
+        "name": "調布市立若葉小学校　AED",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 26 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.582989,
+          35.6550164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3205517113",
+      "properties": {
+        "@id": "node/3205517113",
+        "emergency": "defibrillator",
+        "indoor": "yes",
+        "name": "神金自転車商会 (AED)",
+        "opening_hours": "10：00-19：00,close on Wed",
+        "phone": "+81-042-483-7531",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5670605,
+          35.655906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3211790365",
+      "properties": {
+        "@id": "node/3211790365",
+        "emergency": "defibrillator",
+        "name": "下石原交番 AED",
+        "note": "電話番号は調布警察署のもの。そこから繋いでくれます。",
+        "opening_hours": "24/7",
+        "phone": "+81-42-488-0110",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 20 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5398045,
+          35.6564436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3211850179",
+      "properties": {
+        "@id": "node/3211850179",
+        "emergency": "defibrillator",
+        "indoor": "yes",
+        "name": "林建設株式会社 5F AED",
+        "note": "1階と、5階に、1台ずつ設置されてます。",
+        "phone": "+81-42-486-1111",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 10 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5429333,
+          35.6488056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3211914153",
+      "properties": {
+        "@id": "node/3211914153",
+        "emergency": "defibrillator",
+        "name": "西部公民館 AED",
+        "note": "休館日：毎週月曜日、年末年始(12月29日から1月3日まで）",
+        "opening_hours": "09:00-21:30",
+        "phone": "+81-42-484-2531",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 21 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5252562,
+          35.6556786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3211914154",
+      "properties": {
+        "@id": "node/3211914154",
+        "emergency": "defibrillator",
+        "name": "西部児童館 AED",
+        "phone": "+81-42-484-0313",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 21 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5252025,
+          35.6556372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3211935613",
+      "properties": {
+        "@id": "node/3211935613",
+        "aed:brand": "日本光電",
+        "aed:location": "体育館の校庭側",
+        "emergency": "defibrillator",
+        "name": "市立北ノ台小学校 AED",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 4 November 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5530036,
+          35.6751197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3211936813",
+      "properties": {
+        "@id": "node/3211936813",
+        "aed:location": "1年生昇降口付近、外壁に設置",
+        "emergency": "defibrillator",
+        "fixme": "ポイント位置未確認です。",
+        "name": "第四中学校 AED",
+        "phone": "+81-3-3308-1175",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 26 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5832589,
+          35.6541912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3211937766",
+      "properties": {
+        "@id": "node/3211937766",
+        "aed:location": "3階の事務室にAED設置しています。",
+        "emergency": "defibrillator",
+        "indoor": "yes",
+        "name": "調布市青少年ステーションCAPS AED",
+        "note": "閉館日：毎月第2・4月曜日",
+        "opening_hours": "10:00-20:00",
+        "phone": "+81-42-442-5535"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5323077,
+          35.6597355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3211940172",
+      "properties": {
+        "@id": "node/3211940172",
+        "aed:brand": "philips",
+        "emergency": "defibrillator",
+        "name": "深大寺交番 AED",
+        "opening_hours": "24/7",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 4 November 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5530304,
+          35.6657446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3211940669",
+      "properties": {
+        "@id": "node/3211940669",
+        "aed:brand": "日本光電",
+        "aed:location": "階段下、駐輪場の所",
+        "emergency": "defibrillator",
+        "fixme": "ポイント位置未確認。",
+        "name": "第二小学校 AED",
+        "phone": "+81-42-485-1245",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0,  4 November 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.556512,
+          35.646152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3211990117",
+      "properties": {
+        "@id": "node/3211990117",
+        "Fixme": "ポイント位置未確認です。",
+        "emergency": "defibrillator",
+        "name": "慈恵医大 第三病院 AED",
+        "phone": "+81-3-3480-1151",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 4 November 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5656395,
+          35.6449531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3211999928",
+      "properties": {
+        "@id": "node/3211999928",
+        "Fixme": "ポイント位置未確認です。",
+        "emergency": "defibrillator",
+        "name": "調和小学校 AED",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 4 November 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5735037,
+          35.6514745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3211999929",
+      "properties": {
+        "@id": "node/3211999929",
+        "emergency": "defibrillator",
+        "name": "大町ふれあいの家 AED",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 4 November 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5717496,
+          35.6519583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3211999930",
+      "properties": {
+        "@id": "node/3211999930",
+        "emergency": "defibrillator",
+        "name": "大町スポーツ施設 事務室 AED",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 4 November 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5718944,
+          35.6523332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3211999931",
+      "properties": {
+        "@id": "node/3211999931",
+        "emergency": "defibrillator",
+        "name": "大町スポーツ施設 体育館 AED",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 4 November 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5725381,
+          35.6525947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3212005951",
+      "properties": {
+        "@id": "node/3212005951",
+        "aed:brand": "日本光電",
+        "aed:location": "校庭に近い保健室の前",
+        "emergency": "defibrillator",
+        "indoor": "yes",
+        "name": "明大付属 明治中・高 AED",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 11 November 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5374334,
+          35.6673179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3212009479",
+      "properties": {
+        "@id": "node/3212009479",
+        "aed:location": "二階受付横、血圧測定器上",
+        "emergency": "defibrillator",
+        "name": "調布外科 AED",
+        "note": "学会及び公用のため、時間を変更する可能性あり。",
+        "opening_hours": "Mo Fr 09:00-12:00 15:00-18:00, Tu-Th 09:00-12:00 15:00-17:00, Sa 09:00-12:00",
+        "phone": "+81-42-483-1360",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 7 November 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5278686,
+          35.6598085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3212013837",
+      "properties": {
+        "@id": "node/3212013837",
+        "emergency": "defibrillator",
+        "name": "市立第一小学校 体育館横AED",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 15 November 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5430714,
+          35.6550466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3212020121",
+      "properties": {
+        "@id": "node/3212020121",
+        "emergency": "defibrillator",
+        "name": "調布学園 AED",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 26 November 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5420683,
+          35.6636156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3212021523",
+      "properties": {
+        "@id": "node/3212021523",
+        "emergency": "defibrillator",
+        "name": "調布ドリーム薬局 AED",
+        "note": "保険調剤薬局にも置いてあります。営業時間であればすぐに出動可能な状態になっているとのこと。",
+        "opening_hours": "09:00-19:00",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 21 November 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5442864,
+          35.6533467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3212028183",
+      "properties": {
+        "@id": "node/3212028183",
+        "aed:brand": "日本光電",
+        "aed:location": "入り口付近",
+        "emergency": "defibrillator",
+        "name": "ちょうふの里",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 22 November 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5234269,
+          35.6676382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3212034661",
+      "properties": {
+        "@id": "node/3212034661",
+        "emergency": "defibrillator",
+        "name": "城山保育園 AED",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 26 November 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5622707,
+          35.6634674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3214235418",
+      "properties": {
+        "@id": "node/3214235418",
+        "aed:location": "玄関を入り、右手にあります。",
+        "emergency": "defibrillator",
+        "indoor": "yes",
+        "name": "国領駅北ふれあいの家 AED",
+        "note": "コクティ１F",
+        "operator": "亀乃子本舗",
+        "phone": "+81-42－482－3030",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 29 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5574162,
+          35.6505986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3214246296",
+      "properties": {
+        "@id": "node/3214246296",
+        "aed:location": "玄関入って右正面",
+        "emergency": "defibrillator",
+        "indoor": "yes",
+        "name": "小島町ふれあいの家 AED",
+        "operator": "エレックス",
+        "phone": "080－4119－2397",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 2 November 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5401267,
+          35.647508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3214290012",
+      "properties": {
+        "@id": "node/3214290012",
+        "aed:location": "玄関入って右手",
+        "emergency": "defibrillator",
+        "name": "国領第二ふれあいの家 AED",
+        "operator": "山口商店",
+        "phone": "+81-42－482－3687",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0, 29 October 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5573009,
+          35.6476801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3214298838",
+      "properties": {
+        "@id": "node/3214298838",
+        "aed:location": "下駄箱の横",
+        "emergency": "defibrillator",
+        "name": "布田駅南ふれあいの家 AED",
+        "note": "鍵の管理は椿地蔵交差点に向かう駅前の通り沿いにある美松堂時計店さんです。",
+        "operator": "美松堂時計店（びしょうどうとけいてん）",
+        "source": "Chofu Mapping Party Contributors, CC BY 4.0,  2 November 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5514564,
+          35.648661
+        ]
+      }
+    }
+  ]
+}
