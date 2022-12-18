@@ -1,11 +1,13 @@
 import { OSMQuery } from "@toriyama/osmql";
 import Autolinker from 'autolinker';
+import fs from 'fs';
 
 const osmQuery = new OSMQuery();
 const query = osmQuery.fromQLFile("./query.ql");
+const outputFilepath = "./data.geojson";
 query.execute().then((result) => {
 	const geojson = convert(result.toGeoJSON());
-	console.log(JSON.stringify(geojson));
+	fs.writeFileSync(outputFilepath, JSON.stringify(geojson));
 });
 
 function convert(geojson) {
