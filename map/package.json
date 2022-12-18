@@ -1,0 +1,17 @@
+{
+  "name": "aed",
+  "version": "1.0.0",
+  "description": "",
+  "main": "generate-geojson.js",
+  "scripts": {
+    "build": "node generate-geojson.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "@toriyama/osmql": "^0.1.1",
+    "autolinker": "^4.0.0"
+  }
+}
