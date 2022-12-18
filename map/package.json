@@ -5,6 +5,7 @@
   "main": "generate-geojson.js",
   "scripts": {
     "build": "node generate-geojson.js",
+    "start": "concurrently \"http-server -a localhost -p 8080\" \"open http://localhost:8080/\"",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
@@ -12,6 +13,11 @@
   "type": "module",
   "dependencies": {
     "@toriyama/osmql": "^0.1.1",
-    "autolinker": "^4.0.0"
+    "autolinker": "^4.0.0",
+    "moment": "^2.29.4"
+  },
+  "devDependencies": {
+    "concurrently": "^7.6.0",
+    "http-server": "^14.1.1"
   }
 }
