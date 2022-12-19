@@ -38,7 +38,8 @@ function description(feature) {
 		desc += `<strong>${key}:</strong> ${value}<br />`;
 	}
 	desc += `<strong>updated at:</strong> ${moment(feature.properties.meta.timestamp).fromNow()}<br />`;
-	desc += `<p><a href="https://www.openstreetmap.org/edit#map=19/${lat}/${lng}" target="_blank">編集(OSM)</a></p>`
+	desc += `<p><a href="${getGoogleFormUrl(feature)}" target="_blank">フィードバックを送る</a></p>`
+	desc += `<p><a href="${getOSMUrl(feature)}" target="_blank">OSMのURL</a></p>`
 	return desc;
 }
 
@@ -54,4 +55,12 @@ function getMarkerColor(feature) {
 	} else {
 		return "red";
 	}
+}
+
+function getOSMUrl(feature) {
+	return `https://www.openstreetmap.org/${feature.properties.type}/${feature.properties.id}`;
+}
+
+function getGoogleFormUrl(feature) {
+	return `https://docs.google.com/forms/d/e/1FAIpQLSfK2pvoPM4KdgUH-CB8UdRCGlGoeiQEEaXTYmxltxuhe2FPoA/viewform?usp=pp_url&entry.2015952427=${getOSMUrl(feature)}`;
 }
