@@ -18,6 +18,7 @@ function convert(geojson) {
       geometry: feature.geometry,
       properties: {
 				'marker-color': getMarkerColor(feature),
+				title: title(feature),
 				description: description(feature),
       },
 		};
@@ -28,6 +29,12 @@ function convert(geojson) {
 		features: features,
 	};
 };
+
+function title(feature) {
+	if (feature.properties.tags.name) {
+		return feature.properties.tags.name;
+	}
+}
 
 function description(feature) {
 	const tags = feature.properties.tags;
