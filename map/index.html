@@ -11,7 +11,7 @@
         padding: 0;
       }
 
-      .geolonia {
+      #map {
         width: 100%;
         height: 100%;
       }
@@ -23,12 +23,12 @@
     </style>
   </head>
   <body>
-    <div class="geolonia"
+    <div id="map"
     data-cluster="off"
     data-geojson="./data.geojson" />
     <script type="text/javascript" src="https://cdn.geolonia.com/v1/embed?geolonia-api-key=YOUR-API-KEY"></script>
     <script>
-      const map = new geolonia.Map('.geolonia');
+      const map = new geolonia.Map('#map');
       const geolocate = new geolonia.GeolocateControl({
         trackUserLocation: true,
         showUserHeading: true
