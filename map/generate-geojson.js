@@ -44,7 +44,7 @@ function description(feature) {
 		const value = Autolinker.link(tags[key], {stripPrefix: false});
 		desc += `<strong>${key}:</strong> ${value}<br />`;
 	}
-	desc += `<strong>updated at:</strong> ${moment(feature.properties.meta.timestamp).fromNow()}<br />`;
+	desc += `<strong>updated at:</strong> <span class="${getMarkerColor(feature)}">${moment(feature.properties.meta.timestamp).fromNow()}</span><br />`;
 	desc += `<p><a href="${getGoogleFormUrl(feature)}" target="_blank">フィードバックを送る</a></p>`
 	desc += `<p><a href="${getOSMUrl(feature)}" target="_blank">OSMのURL</a></p>`
 	return desc;

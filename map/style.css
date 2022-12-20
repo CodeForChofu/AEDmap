@@ -1,0 +1,30 @@
+body, html {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.geolonia {
+  width: 100%;
+  height: 100%;
+}
+
+.mapboxgl-popup-content, .maplibregl-popup-content {
+  word-wrap: break-word;
+}
+
+.red {
+  font-weight: bold;
+  color: red;
+}
+
+.orange {
+  font-weight: bold;
+  color: orange;
+}
+
+.green {
+  font-weight: bold;
+  color: green;
+}
