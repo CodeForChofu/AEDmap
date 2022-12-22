@@ -69,5 +69,5 @@ function getOSMUrl(feature) {
 }
 
 function getGoogleFormUrl(feature) {
-	return `https://docs.google.com/forms/d/e/1FAIpQLSfK2pvoPM4KdgUH-CB8UdRCGlGoeiQEEaXTYmxltxuhe2FPoA/viewform?usp=pp_url&entry.2015952427=${getOSMUrl(feature)}`;
+	return `https://docs.google.com/forms/d/e/1FAIpQLSfK2pvoPM4KdgUH-CB8UdRCGlGoeiQEEaXTYmxltxuhe2FPoA/viewform?usp=pp_url&entry.267848839=${title(feature)}&entry.2015952427=${getOSMUrl(feature)}`;
 }
